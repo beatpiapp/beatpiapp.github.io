@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.beatpi.app",
+      "sha256_cert_fingerprints": ["D3:D6:0A:4A:B2:51:37:E7:6A:E8:32:82:F2:6E:9C:0D:BA:B9:42:B2:26:A0:23:78:6D:76:D6:00:26:A7:2F:3A"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.beatpi.app.full",
+      "sha256_cert_fingerprints": ["62:5F:52:0D:6A:72:B4:36:C3:DD:8A:46:9C:66:A4:2C:27:45:3C:71:36:80:0F:B6:DE:04:2E:2B:95:C2:9F:80"]
+    }
+  }
+]
